@@ -15,7 +15,7 @@ Ready to get started? Open a terminal and let's go!
 First, clone this repository and change directories into it:
 
 ```
-git clone https://github.com/dektar/command-line-treasure-hunt.git
+git clone https://github.com/camsoupa/command-line-treasure-hunt.git
 cd command-line-treasure-hunt
 ```
 
